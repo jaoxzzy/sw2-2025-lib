@@ -1,5 +1,7 @@
 <?php
 
+namespace Application\Entity;
+
 // src/Entity/User.php
 
 use DateTimeImmutable;
